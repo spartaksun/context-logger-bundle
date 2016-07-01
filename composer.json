@@ -1,0 +1,9 @@
+{
+    "name": "spartaksun/context-logger-bundle",
+    "description": "Configurable logging of context objects",
+    "type": "package",
+    "require": {
+        "monolog/monolog": "^1.16.0"
+    },
+    "license": "MIT"
+}
